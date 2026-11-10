@@ -1,9 +1,9 @@
 Package: ext-tags
-Version: 0.16.2
+Version: 0.16.3
 Architecture: x86-64
-Filename: ext-tags_0.16.2_x86-64.ipk
-Size: 4002706
-SHA256sum: c908e26e6ddbc91bf1e3e326b626e15e3178ed1076ab97654c0ae9a465149411
+Filename: ext-tags_0.16.3_x86-64.ipk
+Size: 4002320
+SHA256sum: a5b64673e6292664a7d560cee8db0657f34c40b5652491b700f1bfe364bc560f
 Description: Write and import foobar2000 external .tag files
 Section: utils
 Priority: optional
